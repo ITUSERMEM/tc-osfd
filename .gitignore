@@ -1,0 +1,14 @@
+# Data
+*.mat
+C-PUdata12.mat
+data/
+
+# Model checkpoints and outputs
+models/
+*.pth
+*.npy
+__pycache__/
+*.pyc
+
+# Logs
+*.log
